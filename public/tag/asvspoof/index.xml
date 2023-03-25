@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASVspoof | NII Yamagishi&#39;s Lab</title>
+    <link>https://zlin0.github.io/nii-yamagishilab/tag/asvspoof/</link>
+      <atom:link href="https://zlin0.github.io/nii-yamagishilab/tag/asvspoof/index.xml" rel="self" type="application/rss+xml" />
+    <description>ASVspoof</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zlin0.github.io/nii-yamagishilab/media/icon_hu7af45c05e7eaab656aeab8d5fe153c59_37125_512x512_fill_lanczos_center_3.png</url>
+      <title>ASVspoof</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/tag/asvspoof/</link>
+    </image>
+    
+    <item>
+      <title>ASVspoof</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/challenges/asvspoof/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/challenges/asvspoof/</guid>
+      <description>&lt;h1 id=&#34;asvspoofhttpswwwasvspooforg&#34;&gt;&lt;a href=&#34;https://www.asvspoof.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASVspoof&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;latest-information&#34;&gt;Latest Information&lt;/h2&gt;
+&lt;p&gt;Upcoming ASVspoof5 in 2023:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Database creation:          Autumn, 2022&lt;/li&gt;
+&lt;li&gt;Challenge set-up:            First half, 2023&lt;/li&gt;
+&lt;li&gt;ASVspoof5 challenge:     Second half, 2023&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+
+## Introduction
+
+
+## Organisers
+(in alphabetical order) --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

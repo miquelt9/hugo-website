@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bence Halpern | NII Yamagishi&#39;s Lab</title>
+    <link>https://zlin0.github.io/nii-yamagishilab/author/bence-halpern/</link>
+      <atom:link href="https://zlin0.github.io/nii-yamagishilab/author/bence-halpern/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bence Halpern</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zlin0.github.io/nii-yamagishilab/media/icon_hu7af45c05e7eaab656aeab8d5fe153c59_37125_512x512_fill_lanczos_center_3.png</url>
+      <title>Bence Halpern</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/author/bence-halpern/</link>
+    </image>
+    
+    <item>
+      <title>Predicting and synthesising plausible speech examples after oral cancer treatment</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/talks/past/2022-12-21-bh/</link>
+      <pubDate>Tue, 20 Dec 2022 14:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/talks/past/2022-12-21-bh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

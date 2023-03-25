@@ -6,20 +6,20 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: Ocean
+  theme_night: 
+  font: native
   font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: 'yamagishilab'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,18 +32,18 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Yamagishi Lab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -54,23 +54,25 @@ footer:
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    enable: false
+    extra_languages:
+      - r
+      - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/zlin0/nii-yamagishilab'
     content_dir: content
-    branch: main
+    branch: init
   avatar:
     gravatar: false
     shape: circle
@@ -94,9 +96,18 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
+  # feedback: flase
+  #   responses:
+  #     positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new)'
+  #     negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
+
+content:
+  coordinates:
+    latitude: '35.69280'
+    longitude: '139.757946'
 
 # Extensions
 
@@ -107,8 +118,14 @@ extensions:
   academicons:
     enable: true
 
-# Security
+# Citation style
 
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+publications:
+  date_format: January 2006
+  citation_style: apa
+
+welcome:
+  content:
+    font_size: 'XS'
+
+

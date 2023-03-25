@@ -1,0 +1,20 @@
+# Theme metadata
+name = "niiblue" 
+
+[light]
+  # Primary
+  primary = "#3A358C"
+  background = "#3A358C"
+
+  link = "#D08770"
+  link_hover = "#88C0D0"
+
+  # Menu
+  menu_primary = "#3A358C"
+  menu_text = "#E5E9F0"
+  menu_text_active = "#92308D"
+  menu_title = "#D08770"
+
+  # Home sections
+  home_section_odd = "#3A358C"
+  home_section_even = "#D8DEE9"

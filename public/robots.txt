@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://zlin0.github.io/nii-yamagishilab/sitemap.xml

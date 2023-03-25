@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolas Jonason | NII Yamagishi&#39;s Lab</title>
+    <link>https://zlin0.github.io/nii-yamagishilab/author/nicolas-jonason/</link>
+      <atom:link href="https://zlin0.github.io/nii-yamagishilab/author/nicolas-jonason/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolas Jonason</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Feb 2023 17:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://zlin0.github.io/nii-yamagishilab/author/nicolas-jonason/avatar_hubecc338ee1ce6f398b7dd51a15c0ee20_336104_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Nicolas Jonason</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/author/nicolas-jonason/</link>
+    </image>
+    
+    <item>
+      <title>Enabling Human-AI Co-Creativity in Music Making</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/talks/past/2023-02-09-nicolas/</link>
+      <pubDate>Thu, 09 Feb 2023 17:00:00 +0900</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/talks/past/2023-02-09-nicolas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

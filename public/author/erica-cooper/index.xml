@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erica Cooper | NII Yamagishi&#39;s Lab</title>
+    <link>https://zlin0.github.io/nii-yamagishilab/author/erica-cooper/</link>
+      <atom:link href="https://zlin0.github.io/nii-yamagishilab/author/erica-cooper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erica Cooper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zlin0.github.io/nii-yamagishilab/author/erica-cooper/avatar_hu5b55a2c22d28e129e13fe76e5c108eca_46185_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Erica Cooper</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/author/erica-cooper/</link>
+    </image>
+    
+    <item>
+      <title>Can Knowledge of End-to-End Text-to-Speech Models Improve Neural MIDI-to-Audio Synthesis Systems?</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/shi-2022-can/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/shi-2022-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/zhang-2022-partial-spoof/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/zhang-2022-partial-spoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Language-Independent Speaker Anonymization Framework under Unseen Conditions</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/miao-22-interspeech/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/miao-22-interspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention Back-End for Automatic Speaker Verification with Multiple Enrollment Utterances</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/9746688/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/9746688/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalization Ability of MOS Prediction Networks</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/9746395/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/9746395/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Speaker Encoder and Neural Back-end Model for Fully End-to-End Automatic Speaker Verification with Multiple Enrollment Utterances</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/zeng-2022-joint/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/zeng-2022-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-Independent Speaker Anonymization Approach Using Self-Supervised Pre-Trained Models</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/miao-22-odyssey/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/miao-22-odyssey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Interplay between Sparsity, Naturalness, Intelligibility, and Prosody in Speech Synthesis</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/9747728/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/9747728/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The VoiceMOS Challenge 2022</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/huang-22-f-interspeech/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/huang-22-f-interspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of Speaker Recognition Approaches for Learning and Evaluating Embedding Representations of Musical Instrument Sounds</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/9670718/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/9670718/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Initial Investigation for Detecting Partially Spoofed Audio</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/zhang-21-ca-interspeech/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/zhang-21-ca-interspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Disentanglement with Multilingual and Monolingual VQ-VAE</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/williams-21-ssw/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/williams-21-ssw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do Voices from Past Speech Synthesis Challenges Compare Today?</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/cooper-21-ssw/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/cooper-21-ssw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Similar or Different is Rakugo Speech Synthesizer to Professional Performers?</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/9414175/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/9414175/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Disentangled Phone and Speaker Representations in a Semi-Supervised VQ-VAE Paradigm</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/9413543/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/9413543/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task Learning in Utterance-level and Segmental-level Spoof Detection</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/zhang-21-asvspoof/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/zhang-21-asvspoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-to-Speech Synthesis Techniques for MIDI-to-Audio Synthesis</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/cooper-21-b-ssw/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/cooper-21-b-ssw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

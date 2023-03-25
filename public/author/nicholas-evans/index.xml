@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas Evans | NII Yamagishi&#39;s Lab</title>
+    <link>https://zlin0.github.io/nii-yamagishilab/author/nicholas-evans/</link>
+      <atom:link href="https://zlin0.github.io/nii-yamagishilab/author/nicholas-evans/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholas Evans</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zlin0.github.io/nii-yamagishilab/media/icon_hu7af45c05e7eaab656aeab8d5fe153c59_37125_512x512_fill_lanczos_center_3.png</url>
+      <title>Nicholas Evans</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/author/nicholas-evans/</link>
+    </image>
+    
+    <item>
+      <title>The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/zhang-2022-partial-spoof/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/zhang-2022-partial-spoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Speaker Verification Spoofing and Deepfake Detection Using Wav2vec 2.0 and Data Augmentation</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/tak-22-odyssey/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/tak-22-odyssey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The VoicePrivacy 2020 Challenge: Results and findings</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/tomashenko-2022-voiceprivacy/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/tomashenko-2022-voiceprivacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Initial Investigation for Detecting Partially Spoofed Audio</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/zhang-21-ca-interspeech/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/zhang-21-ca-interspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASVspoof 2019: Spoofing Countermeasures for the Detection of Synthesized, Converted and Replayed Speech</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/9358099/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/9358099/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASVspoof 2021: accelerating progress in spoofed and deepfake speech detection</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/yamagishi-21-asvspoof/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/yamagishi-21-asvspoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking and challenges in security and privacy for voice biometrics</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/bonastre-21-spsc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/bonastre-21-spsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Voice Presentation Attack Detection and Recent Advances</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/sahidullah-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/sahidullah-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker Recognition Anti-spoofing</title>
+      <link>https://zlin0.github.io/nii-yamagishilab/publication/evans-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://zlin0.github.io/nii-yamagishilab/publication/evans-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
