@@ -2,85 +2,29 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-# weight option is to set ascending numeric values.
 
 main:
-  # - name: Tour
-  #   url: tour
-  #   weight: 10
-  - name: News
-    identifier: news
-    weight: 20
-  - name: Latest
-    parent: news
-    url: news/latest/
+  - name: Home
+    url: '#about'
     weight: 10
-  - name: Old
-    parent: news
-    url: news/old/
+  - name: Posts
+    url: '#posts'
     weight: 20
-
-  - name: Members
-    url: people
+  - name: Projects
+    url: '#projects'
     weight: 30
-  #- name: Events
-  #  url: event
-  #  weight: 30
-  # - name: Members
-  #   identifier: people
-  #   weight: 30  
-  # - name: Researchers
-  #   parent: people
-  #   url: people/members/
-  #   weight: 10  
-  # - name: Interns
-  #   parent: people
-  #   url: people/interns/
-  #   weight: 20  
-  - name: Publications
-    url: publication
-    weight: 40
-  - name: Challenges
-    url: challenges
-    weight: 50
-  - name: Databases
-    url: databases
-    weight: 60 
   - name: Talks
-    identifier: talks
-    weight: 70
-  - name: Upcoming
-    parent: talks
-    url: talks/upcoming/
-    weight: 10
-  - name: Past
-    parent: talks
-    url: talks/past/
-    weight: 20
-
-
-  - name: Grants
-    url: grants
-    weight: 80
-  # - name: Meeting TODO
-  #   url: meeting
-  #   weight: 50
-  # - name: Materials
-  #   identifier: materials
-  #   weight: 70
-  # - name: Toolkits
-  #   parent: materials
-  #   url: materials/toolkits/
-  #   weight: 20 
-  # - name: Slides
-  #   parent: materials
-  #   url: materials/slides/
-  # - name: Courses
-  #   parent: materials
-  #   url: materials/courses/
-  - name: Recruitments
-    url: recruitments
-    weight: 90
+    url: '#talks'
+    weight: 40
+  - name: Publications
+    url: '#featured'
+    weight: 50
   - name: Contact
-    url: contact
-    weight: 100
+    url: '#contact'
+    weight: 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
